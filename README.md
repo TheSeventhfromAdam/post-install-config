@@ -99,7 +99,11 @@ Step 6 Configure Users (Customers): Agent Panel -> Users -> Add New. Add Karen a
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kztWtmW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6MugzAU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mDWrHUz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/P83AkNq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QZU77t6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 7 Configure SLA: Admin Panel -> Manage -> SLA. Sev-A (1 hour, 24/7),Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours)
