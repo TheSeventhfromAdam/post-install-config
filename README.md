@@ -53,7 +53,7 @@ Step 3 Configure Teams: Admin Panel -> Agents -> Teams. Create Tier I and Tier I
 <p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-Step 4 Allow anyone to make a ticket: Admin Panel -> Settings -> User Settings. Registration Required: Require registration and login to make tickets
+Step 4 Allow anyone to make a ticket: Admin Panel -> Settings -> User Settings. Registration NotRequired: Allow tickets to be submitted without registration
 </p>
 <br />
 
