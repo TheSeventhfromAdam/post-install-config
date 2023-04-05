@@ -76,7 +76,11 @@ Step 4 Allow anyone to make a ticket: Admin Panel -> Settings -> User Settings. 
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YfLrMl8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x8gJwzw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/h9SSI5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PJwiGWF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZqpMLQR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 5 Configure Agents (workers): Admin Panel -> Agents -> Add New. Make new agents Jane and John, or whatever name you prefer.
