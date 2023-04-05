@@ -13,6 +13,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
+<h2>Post-Install Configuration Objectives</h2>
+
 - Configure Roles
 - Configure Departments
 - Configure Teams
