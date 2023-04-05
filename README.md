@@ -88,7 +88,10 @@ Step 5 Configure Agents (workers): Admin Panel -> Agents -> Add New. Make new ag
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ty58EGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WmLvHIE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6w0am1D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gIvl8oO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 6 Configure Users (Customers): Agent Panel -> Users -> Add New. Add Karen and Ken, or whatever name you prefer.
