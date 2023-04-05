@@ -111,7 +111,10 @@ Step 7 Configure SLA: Admin Panel -> Manage -> SLA. Sev-A (1 hour, 24/7),Sev-B (
 <br /
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pUNMuem.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MhhlPZT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MgaY6qu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lYHFW9E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Step 8 Configure Users Help Topics: Admin Panel -> Manage -> Help Topics. Create these topics (Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset)
